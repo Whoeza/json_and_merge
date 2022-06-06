@@ -1,0 +1,16 @@
+{
+    "Functions": {
+        "f_one": "start()",
+        "f_two": "end()"
+    },
+    "Vars": {
+        "one": 1,
+        "two": 2,
+        "three": "three",
+        "four": 4
+    },
+    "Streams": {
+        "input": "yes",
+        "output": "yes"
+    }
+}
