@@ -25,7 +25,7 @@ Run this command from the package directory on your filesystem:
 
 ### Development diary
 
-[DEVDIARY.md](./DEVDIARY.md)
+[DEVDIARY.md](https://github.com/Whoeza/json_and_merge/blob/main/DEVDIARY.md)
 
 `py -m build`
 
