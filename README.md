@@ -2,7 +2,7 @@
 
 A lightweight solution to validate and merge JSON files, in Python
 
-Open source available on [GitHub](https://github.com/Whoeza/json_and_merge) and 
+Open source available on [GitHub](https://github.com/Whoeza/json_and_merge) and
 [PyPI](https://pypi.org/project/json_and_merge/).
 
 ## Installation
@@ -22,6 +22,10 @@ Uninstall from pip:
 ### Building from sources
 
 Run this command from the package directory on your filesystem:
+
+### Development diary
+
+[DEVDIARY.md](./DEVDIARY.md)
 
 `py -m build`
 
