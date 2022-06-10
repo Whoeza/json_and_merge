@@ -2,8 +2,6 @@
 import os
 import json
 
-# todo Once the following packages are available from PyPI, change these
-#  imports:  dict_and_union_with, json_and_validation
 from json_and_validation import *
 from dict_and_union_with import union_with
 
