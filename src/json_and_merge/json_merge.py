@@ -4,8 +4,8 @@ import json
 
 # todo Once the following packages are available from PyPI, change these
 #  imports:  dict_and_union_with, json_and_validation
-from modules.json_and_validation import *
-from modules.dict_and_union_with import union_with
+from json_and_validation import *
+from dict_and_union_with import union_with
 
 
 # cycle files in ./data/json/merge/ and process only valid JSON files (
